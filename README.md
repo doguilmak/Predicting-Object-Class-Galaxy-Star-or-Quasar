@@ -64,9 +64,9 @@ The estimated data was made on the first row in the data set. Actual result is *
 
 ### XGBoost
 
-1st column = GALAXY accuracy
-2nd column = QUASAR accuracy
-3rd column = STAR accuracy
+ - 1st column = GALAXY accuracy
+ - 2nd column = QUASAR accuracy
+ - 3rd column = STAR accuracy
 
 **Prediction of XGBoost:**
 Model output: [[**0.27175558 0.26087973 0.46736473**]].
