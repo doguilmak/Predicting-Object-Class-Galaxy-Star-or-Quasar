@@ -1,5 +1,5 @@
 
-# Predicting Object Class (Galaxy, Star or Quasar) with Aritificial Neural Network and XGBoost
+# Predicting Object Class (Galaxy, Star or Quasar) with Aritificial Neural Networks and XGBoost
 
 ## Problem Statement
 
